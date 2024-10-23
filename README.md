@@ -19,9 +19,14 @@ El sistema consiste en una partícula confinada a un conjunto discreto de posici
 
 4. Se considera la dinámica del sistema. Ahora con una serie de matrices Un el sistema calcula el estado final a partir de un estado inicial.
 # Problemas e incluyalos como ejemplos
-Modele en su librería los problemas
+Modele en su librería los problemas:
+
 4.3.1
+
 4.3.2
+
 4.4.1
+
 4.4.2
+
 Desarrolle e incluya en el Github una discusión de los ejercicios 4.5.2 y 4.5.3
